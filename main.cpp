@@ -97,13 +97,14 @@ plant.photosynthesizing();
 plant.wilting();
 
 //  6)
-//  Noun: Key
-//  action 1: Turning a lock
-key.turningLock();
-//  action 2: Stuck iin a lock
-key.stuckInLock();
-//  action 3: Fit into a keyhole
-key.fiitingIntoKeyhole();
+//  Noun: electricGuitar
+//  action 1: Tuning the guitar
+electricGuitar.tuneGuitar();
+// Action 2: Strumming the guitar
+electricGuitar.strumGuitar();
+// Action 3: Amplifying the guitar
+electricGuitar.amplifyGuitar();
+
 
 //  7)
 //  Noun: Cup
