@@ -65,7 +65,7 @@ faucet.flow();
 //  action 1: Focus
 camera.focus();
 //  action 2: Capture
-Camera.capture();
+camera.capture();
 //  action 3: Zoom
 camera.zoom();
 
