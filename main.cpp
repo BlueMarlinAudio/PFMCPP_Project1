@@ -97,13 +97,13 @@ plant.photosynthesizing();
 plant.wilting();
 
 //  6)
-//  Noun: electricGuitar
-//  action 1: Tuning the guitar
-electricGuitar.tuneGuitar();
-// Action 2: Strumming the guitar
-electricGuitar.strumGuitar();
-// Action 3: Amplifying the guitar
-electricGuitar.amplifyGuitar();
+//  Noun: electricCircuit
+//  action 1: high voltage alarm
+electricCircuit.highVoltageAlarm();
+// Action 2: flow of electric current
+electricCircuit.currentFlowing()
+// Action 3: voltage drop
+electricCircuit.voltageDrop();
 
 
 //  7)
