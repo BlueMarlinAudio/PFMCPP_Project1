@@ -57,17 +57,17 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 faucet.drip();
 //  action 2: Flow
 faucet.flow();
-//  action 3: Shut off (if equipped with a sensor)
-    faucet.shutOff();
+//  action 3: Auto Shut off
+faucet.autoShutOff();
 
 //  2)
 //  Noun: Camera
-//  action 1: Focus
-camera.focus();
-//  action 2: Capture
-camera.capture();
-//  action 3: Zoom
-camera.zoom();
+//  action 1: auto focus
+camera.autoFocus();
+//  action 2: shutter executes
+camera.shutterExecute();
+//  action 3: messures light 
+camera.measureLight();
 
 //  3)
 //  Noun: Car
@@ -75,16 +75,16 @@ camera.zoom();
 car.idle();
 //  action 2: Accelerate
 car.acceleate();
-//  action 3: Brake
-car.brake();
+//  action 3: Stop
+car.stop();
 
 //  4)
 //  Noun: Clock
 //  action 1: Ticking
-clock.tickiing();
+clock.ticking();
 //  action 2: Chiming
 clock.chiming();
-//  action 3: 	Losing time
+//  action 3: Losing time
 clock.losingTime();
 
 //  5)
@@ -97,14 +97,13 @@ plant.photosynthesizing();
 plant.wilting();
 
 //  6)
-//  Noun: electricCircuit
-//  action 1: high voltage alarm
-electricCircuit.highVoltageAlarm();
-// Action 2: flow of electric current
-electricCircuit.currentFlowing()
-// Action 3: voltage drop
-electricCircuit.voltageDrop();
-
+// Noun: Computer
+// action 1: Boot Up
+computer.bootUp();
+// action 2: runs software
+computer.runSoftware();
+// action 3: Shut down
+computer.shutDown();
 
 //  7)
 //  Noun: Cup
@@ -125,13 +124,13 @@ ball.rooling();
 ball.deflating();
 
 //  9)
-//  Noun: Rocking Chair
-//  action 1: Support weight
-rockingChair.supportWeight();
-//  action 2: Rock (if it's a rocking chair)
-rockingChair.rock();
-//  action 3: Squeak (if it has moving parts)
-rockingChair.squeak();
+// Noun: Television
+// action 1: Show a progam
+television.showProgram();
+// action 2: turns on
+television.turnsOn();
+// action 3: Adjust Volume
+television.adjustVolume();
 
 //  10)
 //  Noun:Printer-fax
