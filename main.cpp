@@ -119,7 +119,7 @@ cup.collectingCondensation();
 //  action 1: Bounce
 ball.bouncing();
 //  action 2: Roll
-ball.rooling();
+ball.rolling();
 //  action 3: Deflates
 ball.deflating();
 
