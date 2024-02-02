@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Faucet
+//  action 1: Drip
+faucet.drip();
+//  action 2: Flow
+faucet.flow();
+//  action 3: Auto Shut off
+faucet.autoShutOff();
 
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Camera
+//  action 1: auto focus
+camera.autoFocus();
+//  action 2: shutter executes
+camera.shutterExecute();
+//  action 3: messures light 
+camera.measureLight();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Car
+//  action 1: Idle
+car.idle();
+//  action 2: Accelerate
+car.acceleate();
+//  action 3: Stop
+car.stop();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Clock
+//  action 1: Ticking
+clock.ticking();
+//  action 2: Chiming
+clock.chiming();
+//  action 3: Losing time
+clock.losingTime();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Plant
+//  action 1: Grow
+plant.grow();
+//  action 2: Photosynthesizing
+plant.photosynthesizing();
+//  action 3: Wilting
+plant.wilting();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+// Noun: Computer
+// action 1: Boot Up
+computer.bootUp();
+// action 2: runs software
+computer.runSoftware();
+// action 3: Shut down
+computer.shutDown();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Cup
+//  action 1: Holding liquid
+cup.holdinLiquid();
+//  action 2: Tipping over
+cup.tippingOver();
+//  action 3: Collecting condensation
+cup.collectingCondensation();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun: Ball
+//  action 1: Bounce
+ball.bouncing();
+//  action 2: Roll
+ball.rolling();
+//  action 3: Deflates
+ball.deflating();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+// Noun: Television
+// action 1: Show a progam
+television.showProgram();
+// action 2: turns on
+television.turnsOn();
+// action 3: Adjust Volume
+television.adjustVolume();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:Printer-fax
+//  action 1: Printing
+printerFax.printing();
+//  action 2: Scanning
+prientFax.scanning();
+//  action 3: Recieviing a Fax
+printFax.recievingFax();
 
 
 #endif
